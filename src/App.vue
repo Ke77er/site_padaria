@@ -16,19 +16,8 @@
 	</div>
 </template>
 
-<script src="../src/assets/js/jquery.min.js"></script>
-<script src="../src/assets/js/jquery.validate.min.js"></script>
-<script src="../src/assets/js/bootstrap.js"></script>
-<script src="../src/assets/js/swiper.js"></script>
-<script src="../src/assets/js/splitting.js"></script>
-<script src="../src/assets/js/jquery.paroller.min.js"></script>
-<script src="../src/assets/js/parallax.js"></script>
-<script src="../src/assets/js/magnific-popup.js"></script>
-<script src="../src/assets/js/imagesloaded.pkgd.js"></script>
-<script src="../src/assets/js/isotope.pkgd.js"></script>
-<script src="../src/assets/js/jquery.scrolla.js"></script>
-<script src="../src/assets/js/skrollr.js"></script>
-<script src="../src/assets/js/common.js"></script>
+
+
 <script>
 
 import SectionPreloader from './components/section_preloader.vue';
@@ -67,11 +56,16 @@ export default {
 	},
 
 	methods: {
+	
 
 	},
 
 	mounted() {
+		window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
 
+	  gtag('config', 'UA-125314689-11');
 	},
 };
 </script>
