@@ -17,7 +17,7 @@
 						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
 							<div class="kf-blog-grid-item element-anim-1 scroll-animate" data-animate="active">
 								<div class="image kf-image-hover">
-									<a href="blog-single.html"><img src="../src/assets/images/latest_blog1.jpg" alt="" /></a>
+									<a href="blog-single.html"><img src="./src/assets/images/latest_blog1.jpg" alt="" /></a>
 								</div>
 								<div class="desc">
 									<h5 class="name">SWR React Hooks With Next Increm Ental Static Regeneration</h5>
@@ -30,7 +30,7 @@
 						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
 							<div class="kf-blog-grid-item element-anim-1 scroll-animate" data-animate="active">
 								<div class="image kf-image-hover">
-									<a href="blog-single.html"><img src="../src/assets/images/latest_blog2.jpg" alt="" /></a>
+									<a href="blog-single.html"><img src="./src/assets/images/latest_blog2.jpg" alt="" /></a>
 								</div>
 								<div class="desc">
 									<h5 class="name">Decisions For Building Flexible Components DevTools Browser</h5>
@@ -43,7 +43,7 @@
 						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
 							<div class="kf-blog-grid-item element-anim-1 scroll-animate" data-animate="active">
 								<div class="image kf-image-hover">
-									<a href="blog-single.html"><img src="../src/assets/images/latest_blog3.jpg" alt="" /></a>
+									<a href="blog-single.html"><img src="./src/assets/images/latest_blog3.jpg" alt="" /></a>
 								</div>
 								<div class="desc">
 									<h5 class="name">SWR React Hooks With Next Increm Ental Static Regeneration</h5>

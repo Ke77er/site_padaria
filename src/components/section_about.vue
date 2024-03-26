@@ -25,7 +25,7 @@
 							</div>
 
 							<div class="kf-about-quote element-anim-1 scroll-animate" data-animate="active">
-								<img src="../src/assets/images/quote_img.png" alt="" />
+								<img src="./src/assets/images/quote_img.png" alt="" />
 								<div>Quis autem vel eum iure reprehenderit in ealuptate velit esse molestiae</div>
 							</div>
 
@@ -33,7 +33,7 @@
 						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-7">
 
 							<div class="kf-about-image element-anim-1 scroll-animate" data-animate="active">
-								<img src="../src/assets/images/about_img.png" alt="" />
+								<img src="./src/assets/images/about_img.png" alt="" />
 							</div>
 
 						</div>

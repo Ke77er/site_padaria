@@ -44,7 +44,7 @@
 
       <!-- logo -->
       <div class="kf-logo">
-        <a href="index-2.html"><img src="../src/assets/images/logo.png" alt="" /></a>
+        <a href="index-2.html"><img src="./src/assets/images/logo.png" alt="" /></a>
       </div>
 
     </div>

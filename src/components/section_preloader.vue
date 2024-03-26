@@ -4,7 +4,7 @@
 			<div class="centrize full-width">
 				<div class="vertical-center">
 					<div class="spinner-logo">
-						<img src="../src/assets/images/logo.png" alt="" />
+						<img src="./src/assets/images/logo.png" alt="" />
 						<div class="spinner-dot">
 							<div class="spinner-line"></div>
 						</div>

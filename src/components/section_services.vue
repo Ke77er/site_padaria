@@ -8,7 +8,7 @@
 						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
 							<div class="kf-services-item element-anim-1 scroll-animate" data-animate="active">
 								<div class="image kf-image-hover">
-									<a href="menu-restaurant.html"><img src="../src/assets/images/service1.jpg" alt="" /></a>
+									<a href="menu-restaurant.html"><img src="./src/assets/images/service1.jpg" alt="" /></a>
 								</div>
 								<div class="desc">
 									<div class="icon"><i class="las la-utensils"></i></div>
@@ -20,7 +20,7 @@
 						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
 							<div class="kf-services-item element-anim-1 scroll-animate" data-animate="active">
 								<div class="image kf-image-hover">
-									<a href="menu-coffee.html"><img src="../src/assets/images/service2.jpg" alt="" /></a>
+									<a href="menu-coffee.html"><img src="./src/assets/images/service2.jpg" alt="" /></a>
 								</div>
 								<div class="desc">
 									<div class="icon"><i class="las la-coffee"></i></div>
@@ -32,7 +32,7 @@
 						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
 							<div class="kf-services-item element-anim-1 scroll-animate" data-animate="active">
 								<div class="image kf-image-hover">
-									<a href="services.html"><img src="../src/assets/images/service3.jpg" alt="" /></a>
+									<a href="services.html"><img src="./src/assets/images/service3.jpg" alt="" /></a>
 								</div>
 								<div class="desc">
 									<div class="icon"><i class="las la-glass-cheers"></i></div>

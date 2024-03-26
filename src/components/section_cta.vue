@@ -1,6 +1,6 @@
 <template>
 <!-- Section CTA -->
-<section class="section kf-cta kf-parallax" style="background-image: url(../src/assets/images/cta_bg.jpg);">
+<section class="section kf-cta kf-parallax" style="background-image: url(./src/assets/images/cta_bg.jpg);">
 				<div class="container">
 
 					<div class="row">

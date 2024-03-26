@@ -3,20 +3,20 @@
 <section class="section kf-choose section-bg">
 				<div class="container">
 					<div class="kf-parallax-icon pi-1" data-jarallax-element="-60">
-						<div class="p-icon" style="background-image: url(../src/assets/images/parallax_icon1.png);"></div>
+						<div class="p-icon" style="background-image: url(./src/assets/images/parallax_icon1.png);"></div>
 					</div>
 					<div class="kf-parallax-icon pi-2" data-jarallax-element="-80">
-						<div class="p-icon" style="background-image: url(../src/assets/images/parallax_icon2.png);"></div>
+						<div class="p-icon" style="background-image: url(./src/assets/images/parallax_icon2.png);"></div>
 					</div>
 					<div class="kf-parallax-icon pi-3" data-jarallax-element="-40">
-						<div class="p-icon" style="background-image: url(../src/assets/images/parallax_icon3.png);"></div>
+						<div class="p-icon" style="background-image: url(./src/assets/images/parallax_icon3.png);"></div>
 					</div>
 
 					<div class="row">
 						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
 
 							<div class="kf-choose-image element-anim-1 scroll-animate" data-animate="active">
-								<img src="../src/assets/images/choose_img.jpg" alt="" />
+								<img src="./src/assets/images/choose_img.jpg" alt="" />
 							</div>
 
 						</div>
@@ -42,7 +42,7 @@
 								<ul>
 									<li class="element-anim-1 scroll-animate" data-animate="active">
 										<div class="icon">
-											<img src="../src/assets/images/choose_icon1.png" alt="" />
+											<img src="./src/assets/images/choose_icon1.png" alt="" />
 										</div>
 										<div class="desc">
 											<h5 class="name">Grãos Naturais de Café</h5>
@@ -51,7 +51,7 @@
 									</li>
 									<li class="element-anim-1 scroll-animate" data-animate="active">
 										<div class="icon">
-											<img src="../src/assets/images/choose_icon2.png" alt="" />
+											<img src="./src/assets/images/choose_icon2.png" alt="" />
 										</div>
 										<div class="desc">
 											<h5 class="name">100% ISO Certification</h5>

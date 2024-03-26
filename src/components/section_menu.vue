@@ -1,6 +1,6 @@
 <template>
 			<!-- Section Menu -->
-			<section class="section kf-menu kf-parallax" style="background-image: url(../src/assets/images/category_bg.jpg);">
+			<section class="section kf-menu kf-parallax" style="background-image: url(./src/assets/images/category_bg.jpg);">
 				<div class="container">
 
 					<div class="kf-titles align-center">
@@ -12,13 +12,13 @@
 						</h3>
 					</div>
 
-					<div class="kf-menu-items" style="background-image: url(../src/assets/images/menu_logo.png);">
+					<div class="kf-menu-items" style="background-image: url(./src/assets/images/menu_logo.png);">
 						<div class="row">
 
 							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
 								<div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
 									<div class="image kf-image-hover">
-										<a href="../src/assets/images/item_menu01.jpg" class="has-popup-image"><img src="../src/assets/images/item_menu01.jpg" alt="" /></a>
+										<a href="./src/assets/images/item_menu01.jpg" class="has-popup-image"><img src="./src/assets/images/item_menu01.jpg" alt="" /></a>
 									</div>
 									<div class="desc">
 										<h5 class="name">Croissant Doce</h5>
@@ -31,7 +31,7 @@
 							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
 								<div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
 									<div class="image kf-image-hover">
-										<a href="../src/assets/images/item_menu04.jpg" class="has-popup-image"><img src="../src/assets/images/item_menu04.jpg" alt="" /></a>
+										<a href="./src/assets/images/item_menu04.jpg" class="has-popup-image"><img src="./src/assets/images/item_menu04.jpg" alt="" /></a>
 									</div>
 									<div class="desc">
 										<h5 class="name">Coxinha</h5>
@@ -44,7 +44,7 @@
 							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
 								<div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
 									<div class="image kf-image-hover">
-										<a href="../src/assets/images/item_menu02.jpg" class="has-popup-image"><img src="../src/assets/images/item_menu02.jpg" alt="" /></a>
+										<a href="./src/assets/images/item_menu02.jpg" class="has-popup-image"><img src="./src/assets/images/item_menu02.jpg" alt="" /></a>
 									</div>
 									<div class="desc">
 										<h5 class="name">Rocambole de Morango</h5>
@@ -57,7 +57,7 @@
 							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
 								<div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
 									<div class="image kf-image-hover">
-										<a href="../src/assets/images/item_menu05.jpg" class="has-popup-image"><img src="../src/assets/images/item_menu05.jpg" alt="" /></a>
+										<a href="./src/assets/images/item_menu05.jpg" class="has-popup-image"><img src="./src/assets/images/item_menu05.jpg" alt="" /></a>
 									</div>
 									<div class="desc">
 										<h5 class="name">Mini Pizza</h5>
@@ -70,7 +70,7 @@
 							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
 								<div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
 									<div class="image kf-image-hover">
-										<a href="../src/assets/images/item_menu06.jpg" class="has-popup-image"><img src="../src/assets/images/item_menu06.jpg" alt="" /></a>
+										<a href="./src/assets/images/item_menu06.jpg" class="has-popup-image"><img src="./src/assets/images/item_menu06.jpg" alt="" /></a>
 									</div>
 									<div class="desc">
 										<h5 class="name">Bolo de Chocolate com Morango</h5>
@@ -83,7 +83,7 @@
 							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
 								<div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
 									<div class="image kf-image-hover">
-										<a href="../src/assets/images/item_menu03.jpg" class="has-popup-image"><img src="../src/assets/images/item_menu03.jpg" alt="" /></a>
+										<a href="./src/assets/images/item_menu03.jpg" class="has-popup-image"><img src="./src/assets/images/item_menu03.jpg" alt="" /></a>
 									</div>
 									<div class="desc">
 										<h5 class="name">Café com Leite</h5>

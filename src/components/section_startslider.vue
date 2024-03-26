@@ -6,7 +6,7 @@
 				<div class="swiper-slide">
 
 					<div class="kf-started-item">
-						<div class="slide js-parallax" style="background-image: url(../src/assets/images/started_img_n6.jpg);"></div>
+						<div class="slide js-parallax" style="background-image: url(./src/assets/images/started_img_n6.jpg);"></div>
 						<div class="container">
 							<div class="description align-left element-anim-1">
 								<div class="subtitles">
@@ -33,7 +33,7 @@
 				<div class="swiper-slide">
 
 					<div class="kf-started-item">
-						<div class="slide js-parallax" style="background-image: url(../src/assets/images/started_img_n5.jpg);"></div>
+						<div class="slide js-parallax" style="background-image: url(./src/assets/images/started_img_n5.jpg);"></div>
 						<div class="container">
 							<div class="description align-left element-anim-1">
 								<div class="subtitles">
@@ -60,7 +60,7 @@
 				<div class="swiper-slide">
 
 					<div class="kf-started-item">
-						<div class="slide js-parallax" style="background-image: url(../src/assets/images/started_img_n3.jpg);"></div>
+						<div class="slide js-parallax" style="background-image: url(./src/assets/images/started_img_n3.jpg);"></div>
 						<div class="container">
 							<div class="description align-left">
 								<div class="subtitles">

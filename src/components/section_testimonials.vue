@@ -1,6 +1,6 @@
 <template>
 <!-- Section Testimonials Carousel -->
-<section class="section kf-testimonials kf-testimonials-2 section-bg" style="background-image: url(../src/assets/images/testimonials_bg2.jpg);">
+<section class="section kf-testimonials kf-testimonials-2 section-bg" style="background-image: url(./src/assets/images/testimonials_bg2.jpg);">
 				<div class="container">
 
 					<div class="kf-titles align-center">
@@ -19,7 +19,7 @@
 
 									<div class="slide-item element-anim-1 scroll-animate" data-animate="active">
 										<div class="image">
-											<img src="../src/assets/images/rev1.jpg" alt="" />
+											<img src="./src/assets/images/rev1.jpg" alt="" />
 										</div>
 										<div class="desc">
 											<div class="stars">
@@ -42,7 +42,7 @@
 
 									<div class="slide-item element-anim-1 scroll-animate" data-animate="active">
 										<div class="image">
-											<img src="../src/assets/images/rev2.jpg" alt="" />
+											<img src="./src/assets/images/rev2.jpg" alt="" />
 										</div>
 										<div class="desc">
 											<div class="stars">
@@ -65,7 +65,7 @@
 
 									<div class="slide-item element-anim-1 scroll-animate" data-animate="active">
 										<div class="image">
-											<img src="../src/assets/images/rev3.jpg" alt="" />
+											<img src="./src/assets/images/rev3.jpg" alt="" />
 										</div>
 										<div class="desc">
 											<div class="stars">
@@ -88,7 +88,7 @@
 
 									<div class="slide-item element-anim-1 scroll-animate" data-animate="active">
 										<div class="image">
-											<img src="../src/assets/images/rev1.jpg" alt="" />
+											<img src="./src/assets/images/rev1.jpg" alt="" />
 										</div>
 										<div class="desc">
 											<div class="stars">
@@ -111,7 +111,7 @@
 
 									<div class="slide-item element-anim-1 scroll-animate" data-animate="active">
 										<div class="image">
-											<img src="../src/assets/images/rev2.jpg" alt="" />
+											<img src="./src/assets/images/rev2.jpg" alt="" />
 										</div>
 										<div class="desc">
 											<div class="stars">
@@ -134,7 +134,7 @@
 
 									<div class="slide-item element-anim-1 scroll-animate" data-animate="active">
 										<div class="image">
-											<img src="../src/assets/images/rev3.jpg" alt="" />
+											<img src="./src/assets/images/rev3.jpg" alt="" />
 										</div>
 										<div class="desc">
 											<div class="stars">

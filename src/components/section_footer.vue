@@ -7,7 +7,7 @@
 
 	  				<!-- logo -->
 	  				<div class="kf-logo element-anim-1 scroll-animate" data-animate="active">
-	  					<a href="index-2.html"><img src="../src/assets/images/logo.png" alt="" /></a>
+	  					<a href="index-2.html"><img src="./src/assets/images/logo.png" alt="" /></a>
 	  				</div>
 
 	  			</div>
@@ -64,22 +64,22 @@
 	  					<h5>Galeria</h5>
 	  					<ul>
 	  						<li>
-	  							<a href="../src/assets/images/grid_gal1.jpg" class="kf-image-hover has-popup-image"><img src="../src/assets/images/grid_gal1.jpg" alt="" /></a>
+	  							<a href="./src/assets/images/grid_gal1.jpg" class="kf-image-hover has-popup-image"><img src="./src/assets/images/grid_gal1.jpg" alt="" /></a>
 	  						</li>
 	  						<li>
-	  							<a href="../src/assets/images/grid_gal2.jpg" class="kf-image-hover has-popup-image"><img src="../src/assets/images/grid_gal2.jpg" alt="" /></a>
+	  							<a href="./src/assets/images/grid_gal2.jpg" class="kf-image-hover has-popup-image"><img src="./src/assets/images/grid_gal2.jpg" alt="" /></a>
 	  						</li>
 	  						<li>
-	  							<a href="../src/assets/images/grid_gal3.jpg" class="kf-image-hover has-popup-image"><img src="../src/assets/images/grid_gal3.jpg" alt="" /></a>
+	  							<a href="./src/assets/images/grid_gal3.jpg" class="kf-image-hover has-popup-image"><img src="./src/assets/images/grid_gal3.jpg" alt="" /></a>
 	  						</li>
 	  						<li>
-	  							<a href="../src/assets/images/grid_gal4.jpg" class="kf-image-hover has-popup-image"><img src="../src/assets/images/grid_gal4.jpg" alt="" /></a>
+	  							<a href="./src/assets/images/grid_gal4.jpg" class="kf-image-hover has-popup-image"><img src="./src/assets/images/grid_gal4.jpg" alt="" /></a>
 	  						</li>
 	  						<li>
-	  							<a href="../src/assets/images/grid_gal5.jpg" class="kf-image-hover has-popup-image"><img src="../src/assets/images/grid_gal5.jpg" alt="" /></a>
+	  							<a href="./src/assets/images/grid_gal5.jpg" class="kf-image-hover has-popup-image"><img src="./src/assets/images/grid_gal5.jpg" alt="" /></a>
 	  						</li>
 	  						<li>
-	  							<a href="../src/assets/images/grid_gal6.html" class="kf-image-hover has-popup-image"><img src="../src/assets/images/grid_gal1.jpg" alt="" /></a>
+	  							<a href="./src/assets/images/grid_gal6.html" class="kf-image-hover has-popup-image"><img src="./src/assets/images/grid_gal1.jpg" alt="" /></a>
 	  						</li>
 	  					</ul>
 	  				</div>

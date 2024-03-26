@@ -61,21 +61,6 @@ export default {
 	},
 
 	mounted() {
-		window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', 'UA-125314689-11');
-	},
-};
+}
+}
 </script>
-<style>
-@import url('../src/assets/styles/bootstrap.css');
-@import url('../src/assets/fonts/font-awesome/css/font-awesome.css');
-@import url('../src/assets/fonts/font-awesome/css/line-awesome.css');
-@import url('../src/assets/styles/animate.css');
-@import url('../src/assets/styles/magnific-popup.css');
-@import url('../src/assets/styles/splitting.css');
-@import url('../src/assets/styles/swiper.css');
-@import url('../src/assets/style.css');
-</style>
