@@ -1,13 +1,13 @@
 <template>
 <!-- Footer -->
-<div class="kf-footer">
+<div class="kf-footer" id="Contato">
 	  	<div class="container">
 	  		<div class="row">
 	  			<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
 
 	  				<!-- logo -->
 	  				<div class="kf-logo element-anim-1 scroll-animate" data-animate="active">
-	  					<a href="index-2.html"><img src="./src/assets/images/logo.png" alt="" /></a>
+	  					<a href=""><img src="./src/assets/images/logo.png" alt="" /></a>
 	  				</div>
 
 	  			</div>

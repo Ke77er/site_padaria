@@ -61,7 +61,7 @@
 								</ul>
 							</div>
 
-							<a href="about.html" class="kf-btn element-anim-1 scroll-animate" data-animate="active">
+							<a href="" class="kf-btn element-anim-1 scroll-animate" data-animate="active">
 								<span>Veja Mais</span>
 								<i class="fas fa-chevron-right"></i>
 							</a>

@@ -4,12 +4,13 @@
 	<SectionHeader />
 	<div class="wrapper">
 		<SectionStartSlider />
-		<SectionAbout />
 		<SectionServices />
-		<SectionMenu />
+		<SectionMenuDoces />
+		<SectionMenuSalgados />
+		<SectionMenuConveniencia />
+		<SectionMenuRestaurante />
+		<SectionAbout />
 		<SectionChoose />
-		<SectionTestimonials />
-		<SectionBlog />
 		<SectionCTA />
 	</div>
 	<SectionFooter />
@@ -25,10 +26,11 @@ import SectionHeader from './components/section_header.vue';
 import SectionStartSlider from './components/section_startslider.vue';
 import SectionAbout from './components/section_about.vue';
 import SectionServices from './components/section_services.vue';
-import SectionMenu from './components/section_menu.vue';
+import SectionMenuConveniencia from './components/section_menu_conveniencia.vue';
+import SectionMenuRestaurante from './components/section_menu_restaurante.vue';
+import SectionMenuDoces from './components/section_menu_doces.vue';
+import SectionMenuSalgados from './components/section_menu_salgados.vue';
 import SectionChoose from './components/section_choose.vue';
-import SectionTestimonials from './components/section_testimonials.vue';
-import SectionBlog from './components/section_blog.vue';
 import SectionCTA from './components/section_cta.vue';
 import SectionFooter from './components/section_footer.vue';
 export default {
@@ -39,10 +41,11 @@ export default {
 		SectionStartSlider,
 		SectionAbout,
 		SectionServices,
-		SectionMenu,
+		SectionMenuConveniencia,
+		SectionMenuRestaurante,
+		SectionMenuDoces,
+		SectionMenuSalgados,
 		SectionChoose,
-		SectionTestimonials,
-		SectionBlog,
 		SectionCTA,
 		SectionFooter,
 

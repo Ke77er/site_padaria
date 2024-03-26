@@ -1,6 +1,6 @@
 <template>
 <!-- Section About -->
-<section class="section kf-about section-bg">
+<section class="section kf-about section-bg" id="About">
 				<div class="container">
 
 					<div class="row">

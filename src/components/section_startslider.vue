@@ -1,12 +1,12 @@
 <template>
 	<!-- Section Started Slider -->
-	<section class="section kf-started-slider">
+	<section class="section kf-started-slider" id="Inicio">
 		<div class="swiper-container">
 			<div class="swiper-wrapper">
 				<div class="swiper-slide">
 
 					<div class="kf-started-item">
-						<div class="slide js-parallax" style="background-image: url(./src/assets/images/started_img_n6.jpg);"></div>
+						<div class="slide js-parallax" style="background-image: url(./src/assets/images/7graos1.jpeg);"></div>
 						<div class="container">
 							<div class="description align-left element-anim-1">
 								<div class="subtitles">
@@ -16,11 +16,11 @@
 									Os Melhores Bolos <br>da Região
 								</h2>
 								<div class="kf-bts">
-									<a href="menu-restaurant.html" class="kf-btn">
+									<a href="#About" class="kf-btn">
 										<span>Conheça agora</span>
 										<i class="fas fa-chevron-right"></i>
 									</a>
-									<a href="reservation.html" class="kf-btn dark-btn">
+									<a onclick="window.open('https://7-graos-almoco.ola.click/products', '_blank');" class="kf-btn dark-btn">
 										<span>Peça o Delivery</span>
 										<i class="fas fa-chevron-right"></i>
 									</a>
@@ -33,7 +33,7 @@
 				<div class="swiper-slide">
 
 					<div class="kf-started-item">
-						<div class="slide js-parallax" style="background-image: url(./src/assets/images/started_img_n5.jpg);"></div>
+						<div class="slide js-parallax" style="background-image: url(./src/assets/images/7graos2.jpeg);"></div>
 						<div class="container">
 							<div class="description align-left element-anim-1">
 								<div class="subtitles">
@@ -43,11 +43,11 @@
 									Os Melhores Salgados<br>da Região
 								</h2>
 								<div class="kf-bts">
-									<a href="menu-coffee.html" class="kf-btn">
+									<a href="#About" class="kf-btn">
 										<span>Conheça agora</span>
 										<i class="fas fa-chevron-right"></i>
 									</a>
-									<a href="reservation.html" class="kf-btn dark-btn">
+									<a onclick="window.open('https://7-graos-almoco.ola.click/products', '_blank');" class="kf-btn dark-btn">
 										<span>Peça o Delivery</span>
 										<i class="fas fa-chevron-right"></i>
 									</a>
@@ -60,7 +60,7 @@
 				<div class="swiper-slide">
 
 					<div class="kf-started-item">
-						<div class="slide js-parallax" style="background-image: url(./src/assets/images/started_img_n3.jpg);"></div>
+						<div class="slide js-parallax" style="background-image: url(./src/assets/images/7graos3.jpeg);"></div>
 						<div class="container">
 							<div class="description align-left">
 								<div class="subtitles">
@@ -70,11 +70,11 @@
 									O Melhor Buffet <br>da Região
 								</h2>
 								<div class="kf-bts">
-									<a href="menu-coffee.html" class="kf-btn">
+									<a href="#About" class="kf-btn">
 										<span>Conheça agora</span>
 										<i class="fas fa-chevron-right"></i>
 									</a>
-									<a href="reservation.html" class="kf-btn dark-btn">
+									<a onclick="window.open('https://7-graos-almoco.ola.click/products', '_blank');" class="kf-btn dark-btn">
 										<span>Peça o Delivery</span>
 										<i class="fas fa-chevron-right"></i>
 									</a>
