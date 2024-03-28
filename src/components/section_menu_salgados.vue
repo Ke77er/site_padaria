@@ -18,36 +18,10 @@
 							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
 								<div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
 									<div class="image kf-image-hover">
-										<a href="" class="has-popup-image"><img src="" /></a>
-									</div>
-									<div class="desc">
-										<h5 class="name"></h5>
-										<div class="subname"></div>
-										<div class="price"></div>
-									</div>
-								</div>
-							</div>
-
-							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
-								<div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
-									<div class="image kf-image-hover">
-										<a href="./src/assets/images/item_menu04.jpg" class="has-popup-image"><img src="./src/assets/images/item_menu04.jpg" /></a>
+										<a href="./src/assets/images/itemsalgado01.jpg" class="has-popup-image"><img src="./src/assets/images/itemsalgado01.jpg" /></a>
 									</div>
 									<div class="desc">
 										<h5 class="name">Coxinha</h5>
-										<div class="subname">1 Coxinha Grande de Frango</div>
-										<div class="price"></div>
-									</div>
-								</div>
-							</div>
-
-							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
-								<div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
-									<div class="image kf-image-hover">
-										<a href="" class="has-popup-image"><img src="" /></a>
-									</div>
-									<div class="desc">
-										<h5 class="name"></h5>
 										<div class="subname"></div>
 										<div class="price"></div>
 									</div>
@@ -57,23 +31,10 @@
 							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
 								<div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
 									<div class="image kf-image-hover">
-										<a href="./src/assets/images/item_menu05.jpg" class="has-popup-image"><img src="./src/assets/images/item_menu05.jpg" /></a>
+										<a href="./src/assets/images/itemsalgado02.jpg" class="has-popup-image"><img src="./src/assets/images/itemsalgado02.jpg" /></a>
 									</div>
 									<div class="desc">
 										<h5 class="name">Mini Pizza</h5>
-										<div class="subname">1 Mini Pizza de Calabresa</div>
-										<div class="price"></div>
-									</div>
-								</div>
-							</div>
-
-							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
-								<div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
-									<div class="image kf-image-hover">
-										<a href="" class="has-popup-image"><img src="" /></a>
-									</div>
-									<div class="desc">
-										<h5 class="name"></h5>
 										<div class="subname"></div>
 										<div class="price"></div>
 									</div>
@@ -83,12 +44,62 @@
 							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
 								<div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
 									<div class="image kf-image-hover">
-										<a href="" class="has-popup-image"><img src=""/></a>
+										<a href="./src/assets/images/itemsalgado03.jpg" class="has-popup-image"><img src="./src/assets/images/itemsalgado03.jpg" /></a>
 									</div>
 									<div class="desc">
-										<h5 class="name"></h5>
+										<h5 class="name">Café</h5>
 										<div class="subname"></div>
 										<div class="price"></div>
+									</div>
+								</div>
+							</div>
+
+							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+								<div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
+									<div class="image kf-image-hover">
+										<a href="./src/assets/images/itemsalgado04.jpg" class="has-popup-image"><img src="./src/assets/images/itemsalgado04.jpg" /></a>
+									</div>
+									<div class="desc">
+										<h5 class="name">Pastel Assado</h5>
+										<div class="subname"></div>
+										<div class="price"></div>
+									</div>
+								</div>
+							</div>
+
+							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+								<div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
+									<div class="image kf-image-hover">
+										<a href="./src/assets/images/itemsalgado05.jpg" class="has-popup-image"><img src="./src/assets/images/itemsalgado05.jpg" /></a>
+									</div>
+									<div class="desc">
+										<h5 class="name">Esfirra</h5>
+										<div class="subname"></div>
+										<div class="price"></div>
+									</div>
+								</div>
+							</div>
+
+							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+								<div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
+									<div class="image kf-image-hover">
+										<a href="./src/assets/images/itemsalgado06.jpg" class="has-popup-image"><img src="./src/assets/images/itemsalgado06.jpg"/></a>
+									</div>
+									<div class="desc">
+										<h5 class="name">Pastel Folhado</h5>
+										<div class="subname"></div>
+										<div class="price"></div>
+									</div>
+								</div>
+							</div>
+
+							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+								<div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
+									<div class="image kf-image-hover">
+										<a href="./src/assets/images/iconmais.png" class="has-popup-image"><img src="./src/assets/images/iconmais.png"/></a>
+									</div>
+									<div class="desc">
+										<h5 class="name">E Muito Mais</h5>
 									</div>
 								</div>
 							</div>

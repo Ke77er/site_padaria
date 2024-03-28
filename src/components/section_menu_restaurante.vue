@@ -93,6 +93,17 @@
 								</div>
 							</div>
 
+							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+								<div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
+									<div class="image kf-image-hover">
+										<a href="./src/assets/images/iconmais.png" class="has-popup-image"><img src="./src/assets/images/iconmais.png"/></a>
+									</div>
+									<div class="desc">
+										<h5 class="name">E Muito Mais</h5>
+									</div>
+								</div>
+							</div>
+
 						</div>
 					</div>
 
