@@ -18,10 +18,7 @@
 
           <!-- social -->
           <div class="kf-h-social">
-            <a href="" target="blank"><i class="fab fa-facebook-f"></i></a>
-            <a href="" target="blank"><i class="fab fa-twitter"></i></a>
-            <a href="" target="blank"><i class="fab fa-instagram"></i></a>
-            <a href="" target="blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://www.instagram.com/7graospaesedoces/" target="blank">  @7graospaesedoces</a>
           </div>
 
         </div>
@@ -169,4 +166,9 @@ export default {
 </script>
 
 
-<style scoped></style>
+<style scoped>
+.kf-logo img{
+  max-height: 50px;
+}
+
+</style>

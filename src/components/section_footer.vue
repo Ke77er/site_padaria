@@ -112,4 +112,12 @@ export default {
 </script>
 
 <style scoped>
+
+.kf-logo img{
+  max-height: 100px;
+}
+
+img{
+	border: solid black 3px;
+}
 </style>
